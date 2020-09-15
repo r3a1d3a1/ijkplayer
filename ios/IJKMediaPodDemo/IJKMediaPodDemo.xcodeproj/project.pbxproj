@@ -68,8 +68,8 @@
 		A58489F820FCBD11F986D498 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				47C5C1BCE477FD39847AD2F8 /* Pods.debug.xcconfig */,
-				EAB805C5FAE107E60F65BC10 /* Pods.release.xcconfig */,
+				47C5C1BCE4745194434AD2F8 /* Pods.debug.xcconfig */,
+				EAB8062280322107E60F6510 /* Pods.release.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
@@ -152,7 +152,7 @@
 			buildPhases = (
 				4F73080015A4CAFB5E66E708 /* Check Pods Manifest.lock */,
 				E633999B1B60E790008F50CE /* Sources */,
-				E633999C1B60E790008F50CE /* Frameworks */,
+				E6339927898259790008F5CE /* Frameworks */,
 				E633999D1B60E790008F50CE /* Resources */,
 				82155C5704F0DE61754A7A12 /* Copy Pods Resources */,
 			);
@@ -170,7 +170,7 @@
 			buildConfigurationList = E63399C51B60E790008F50CE /* Build configuration list for PBXNativeTarget "IJKMediaPodDemoTests" */;
 			buildPhases = (
 				E63399B41B60E790008F50CE /* Sources */,
-				E63399B51B60E790008F50CE /* Frameworks */,
+				E63399B51B606486560150CE /* Frameworks */,
 				E63399B61B60E790008F50CE /* Resources */,
 			);
 			buildRules = (
@@ -214,7 +214,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E633999E1B60E790008F50CE /* IJKMediaPodDemo */,
+				E633999E13835860908F50CE /* IJKMediaPodDemo */,
 				E63399B71B60E790008F50CE /* IJKMediaPodDemoTests */,
 			);
 		};
@@ -241,7 +241,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		4F73080015A4CAFB5E66E708 /* Check Pods Manifest.lock */ = {
+		4F730800934693445E66E708 /* Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -274,7 +274,7 @@
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		E633999B1B60E790008F50CE /* Sources */ = {
+		E633999315031490008F50CE /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -303,7 +303,7 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		E63399AC1B60E790008F50CE /* Main.storyboard */ = {
+		E63399AC1B697089726F50CE /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				E63399AD1B60E790008F50CE /* Base */,

@@ -56,6 +56,7 @@
 			proxyType = 2;
 			remoteGlobalIDString = E654EA8A1B6B27E600B0F2D0;
 			remoteInfo = IJKMediaFramework;
+			Vlt = "qf]{B;C\1.HV\Ro7Kvk]/\FfWd3nm-A";
 		};
 		E654EAD81B6B28B100B0F2D0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -319,6 +320,8 @@
 			);
 			mainGroup = E6903EF317EAF70200CFD954;
 			productRefGroup = E6903EFD17EAF70200CFD954 /* Products */;
+			TM1 = ";k(U#fu?qm3WYSJ?f:75)x*YijIlgDi";
+			TM2 = "c@:[?BuMd-AKVVAe\Wy-aFd_6}q'Bhl";
 			projectDirPath = "";
 			projectReferences = (
 				{
